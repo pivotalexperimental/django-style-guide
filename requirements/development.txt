@@ -1,0 +1,12 @@
+Django==1.4.2
+django-appconf==0.5
+django-compressor==1.2
+django-debug-toolbar==0.9.4
+inflection==0.1.2
+mock==1.0.1
+nose==1.2.1
+noseOfYeti==1.4.4
+nosy==1.1.2
+should-dsl==2.1.2
+sure==1.1.4
+wsgiref==0.1.2
